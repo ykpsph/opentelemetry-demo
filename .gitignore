@@ -58,3 +58,15 @@ src/frontend/cypress/screenshots
 src/shipping/target/
 
 !src/currency/build
+
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+crash.*.log
